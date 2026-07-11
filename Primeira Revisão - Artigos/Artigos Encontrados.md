@@ -12,3 +12,10 @@ Abaixo os trabalhos encontrados, alguns nem tem o mundo de wumpus como foco prin
 ### Google scholar
 1. [content](https://bdm.ufpa.br/server/api/core/bitstreams/33032f33-c52d-48ba-861e-f018ff845be1/content) - (não encontrei o ano) Artigo que tem a participação do Otávio, analisa algoritmos genéticos no mundo de wumpus, e faz os testes, parece se encaixar no tema.
 2. [Agentes-adaptativos-reativos-formalizacao-e-estudo-de-caso.pdf](https://www.researchgate.net/profile/Renata-Stange/publication/313120268_Agentes_adaptativos_reativos_formalizacao_e_estudo_de_caso/links/5f3c375f92851cd3020374b5/Agentes-adaptativos-reativos-formalizacao-e-estudo-de-caso.pdf) - (2017) Testa agentes no mundo de wumpus e apresenta resultados, o objetivo é o agente.
+3. [Aprimorando a educação em ciência da computação com um ambiente de simulação inteligente sem fio | Revista de Computação no Ensino Superior | Springer Nature Link](https://link.springer.com/article/10.1007/BF02960285) - (2004) Esse sim desenvolve plataforma educacional, mas é bem antigo, mas tudo bem, podemos considerar.
+4. 
+
+### Artigos inacessíveis
+Artigos que talvez até se encaixem no tema, mas não consegui acessar por não ter acesso institucional da UFPA no site em questão.
+
+1. [Aprendendo Estratégias de Ação no Mundo Wumpus com DQN | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-032-09321-9_28) - (2025) Desenvolve e testa agentes.

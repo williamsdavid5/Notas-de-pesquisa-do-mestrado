@@ -66,3 +66,5 @@ Intervalo de busca: 10 ou 15 anos
 	- 2: Implantação trivial ou nula (ex: ferramenta Web "zero instalação" ou executável de clique único).
 ## Artigos encontrados
 De forma "bruta", os artigos que foram encontrados serão listados e comentados em [[Artigos Encontrados]].
+
+Alguns artigos interessantes também foram encontrados no meio do caminho, que não se encaixavam no tema, mas que trazem boas ideias, então todos foram reunidos em [[Artigos interessantes]].
