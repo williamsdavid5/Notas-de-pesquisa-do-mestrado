@@ -1,5 +1,7 @@
 Vamos nos basear no [modelo](https://docs.google.com/document/d/1bY813sDopQMXs0lZf6XDTXxqafN_0ehB/edit?usp=sharing&ouid=100459640762631514330&rtpof=true&sd=true) fornecido na disciplina "Metodologia de Pesquisa 1", assim como o [modelo preenchido](https://drive.google.com/drive/folders/1I2Q4cehdME8fFrOy4knL7L2bvZBGekeW?usp=drive_link), e após isso, vamos escrever um artigo, conforme os [modelo](https://drive.google.com/drive/folders/1I2Q4cehdME8fFrOy4knL7L2bvZBGekeW?usp=drive_link) na pasta fornecida pela professora.
 
+O [meu protocolo de revisão](https://docs.google.com/document/d/1ISgyT3XCcX2fjKOeQf74d3CIGJOIJsJI/edit?usp=sharing&ouid=100459640762631514330&rtpof=true&sd=true) também foi criado para o compartilhamento em tempo real da pesquisa pelo meu orientador.
+
 Com isso, seguem os metadados da pesquisa, pelo menos os que eu consegui desenvolver até esse ponto:
 
 ## Metadados de pesquisa
@@ -8,6 +10,7 @@ Com isso, seguem os metadados da pesquisa, pelo menos os que eu consegui desenvo
 - Objetivos: Identificar trabalhos que implementam e testam agentes inteligentes no Mundo do Wumpus, avaliando o potencial de seus ambientes de simulação para servirem como plataformas reutilizáveis de teste por terceiros.
 
 **Perguntas da revisão
+- Qual é o propósito primário dos ambientes identificados na literatura: plataformas dedicadas ao teste por terceiros ou infraestruturas acessórias focadas na validação de agentes específicos?
 - Como os ambientes descritos na literatura são parametrizados para a execução dos agentes?
 - De que forma os resultados das simulações e o comportamento dos agentes são apresentados ao usuário?
 - Com base nas arquiteturas e descrições fornecidas nos textos, como os trabalhos se classificam quanto ao potencial de reutilização e facilidade de adoção de seus ambientes por terceiros?
@@ -40,5 +43,26 @@ Intervalo de busca: 10 ou 15 anos
 
 **Justificativa:** Os três critérios de inclusão serão o filtro para a seleção de trabalhos que de fato desenvolvem e testam pelo menos um agente inteligente no mundo de wumpus e forneçam os detalhes disso, dessa forma, será possível extrair a informação de como esse teste e resultados são visualizados, e o quão fácil é o uso disso. Os dois critérios de exclusão servem como uma camada complementar para esse filtro, removendo da lista trabalhos que estão hospedados em sites pagos, e trabalhos que não desenvolvem esse sistema na prática.
 
+## Critérios de qualidade
+1. Nível de detalhamento da arquitetura/metodologia do ambiente
+	- 0: O autor apenas menciona que rodou o agente, sem dar nenhum detalhe do ambiente de execução.
+	- 1: O autor descreve brevemente o ambiente em texto (ex: menciona a linguagem ou uma biblioteca), mas sem diagramas ou especificações profundas.
+	- 2: Descrição detalhada, apresentando a lógica de funcionamento, requisitos do sistema, diagramas de blocos ou fluxo de execução.
+2. Capacidade de Observabilidade e Visualização
+	- 0: O sistema funciona como uma "caixa-preta" (apenas computa os dados e não mostra a execução).
+	- 1: Visualização textual ou rudimentar (ex: logs brutos no terminal, _prints_ da matriz do grid via texto).
+	- 2: Visualização gráfica, amigável e em tempo real do agente se movendo pelo Mundo do Wumpus.
+3. Nível de interação e parametrização do usuário
+	- 0: Mapa e parâmetros totalmente fixos no código.
+	- 1: Permite customização parcial, mas exige modificar arquivos de configuração de texto (JSON, TXT, XML).
+	- 2: Permite customização dinâmica e interativa (ex: alterar tamanho, probabilidade de poços ou posicionar elementos de forma amigável).
+4. Prontidão para uso como Plataforma
+	- 0: É apenas um script acessório acoplado ao agente do autor, incapaz de rodar outros algoritmos.
+	- 1: O ambiente é isolado do agente, mas estruturado puramente como um pacote de código/API local para desenvolvedores.
+	- 2: O sistema se apresenta ou tem potencial claro de uma ferramenta/plataforma pronta e acabada para uso por terceiros (independente de ser via desktop ou web).
+5. Simplicidade de Replicação e Implantação
+	- 0: Não há qualquer pista de como replicar; exige dependências obscuras ou ambiente altamente restrito.
+	- 1: Exige instalação local complexa, compilação de código-fonte, gerenciadores de pacotes específicos ou configuração de variáveis de ambiente.
+	- 2: Implantação trivial ou nula (ex: ferramenta Web "zero instalação" ou executável de clique único).
 ## Artigos encontrados
 De forma "bruta", os artigos que foram encontrados serão listados e comentados em [[Artigos Encontrados]].
