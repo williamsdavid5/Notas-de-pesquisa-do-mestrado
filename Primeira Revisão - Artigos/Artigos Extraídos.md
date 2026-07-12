@@ -34,33 +34,34 @@ Nota recebida nessa avaliação: 10
 ---
 ### TRABALHO 0
 1º) Metadados básicos
-- Título:
-- Ano:
-- Autores:
-- Veículo:
-- Base:
+- Título: A multi context dynamic test bed for simulating real world constraints in agents' teamwork
+- Ano: 2012
+- Autores: Sajjad Salehi; Mohammad Taghi Saffar; Fattaneh Taghiyareh; Kambiz Badie
+- Veículo: 6th International Symposium on Telecommunications (IST)
+- Base: IEEE Xplore
 
 
 2º) Contextualização do trabalho:
+Os autores testam múltiplos agentes atuando ao mesmo tempo no mundo de wumpus, simulando restrições e apresentando os resultados do trabalho em equipe. Esse projeto tem a proposta de ser fácil de usar e tem o objetivo de ser um ambiente de testes de quaisquer assuntos relacionados à ação conjunta de múltiplos agentes. 
 
   
 3º) Propósito primário do ambiente:
-(   ) plataformas dedicadas ao teste por terceiros
+( x ) plataformas dedicadas ao teste por terceiros
 (   ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Transparência Arquitetural do Ambiente (0 a 2): 
-	- Justificativa: 
-- Capacidade de Observabilidade e Visualização (0 a 2): 
-	- Justificativa: 
-- Nível de interação e parametrização do usuário (0 a 2): 
-	- Justificativa:
-- Prontidão para uso como Plataforma (0 a 2): 
-	- Justificativa:
-- Simplicidade de Replicação e Implantação (0 a 2): 
-	- Justificativa: 
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 1
+	- Justificativa: Os autores não apresentam passos lógicos ou diagramas sobre como a execução é feita e exibida, mas demonstram a configuração inicial da execução, mostrando capturas de tela da interface gráfica de configuração dos testes, porém para por aí, não dão nenhum detalhe sobre a exibição dos resultados.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: Os autores não mencionam se a execução é exibida ao usuário ou como os testes são apresentados.
+- Nível de interação e parametrização do usuário (0 a 2): 2
+	- Justificativa: Alto nível de parametrização, tanto via interface gráfica, quanto via código, pois o sistema fornece classes para o desenvolvimento relativamente fácil dos agentes pelo próprio usuário.
+- Prontidão para uso como Plataforma (0 a 2): 1
+	- Justificativa: Apesar de ter um alto nível de parametrização, ainda seria necessário desenvolver agentes para realizar os testes, isso indica que o sistema não foi feito para ser usado por usuários comuns. Sobre a visualização da execução e resultados, como mencionado, os autores não detalham.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: Apenas pistas são dadas sobre como replicar os testes, o detalhamento é até relativamente alto, fornecendo em alguns momentos os nomes de classes e uma estrutura lógica do padrão de projeto, mas não fornece nenhum código fonte, mesmo de forma parcial, ou diagrama lógico para o funcionamento do sistema.
 
-Nota recebida nessa avaliação: 
+Nota recebida nessa avaliação: 4
 
 ---
 ### TRABALHO 0
@@ -79,7 +80,7 @@ De forma simplificada, o trabalho busca resolver o problema do mundo de wumpus u
 ( x ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Transparência Arquitetural do Ambiente (0 a 2): 1
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 1
 	- Justificativa: O detalhamento não é nulo, mas incompleto, os autores descrevem um código lógico sobre como o agente toma as decisões, mas não dão detalhes sobre a execução e visualização dos resultados, não apresentam códigos nem diagramas sobre a arquitetura do ambiente, nem cita de forma aprofundada as bibliotecas.
 - Capacidade de Observabilidade e Visualização (0 a 2): 0
 	- Justificativa: Apenas faz o processamento mas não mostra de forma visual o agente tomando as decisões pelo mundo, mesmo pelo terminal. Na verdade os autores nem mesmo dão detalhes sobre como isso é visualizado, mas pelas suas descrições, notamos que esse sistema é 100% código.
@@ -110,7 +111,7 @@ Os autores desenvolvem um agente que tomas as decisões utilizando uma lógica c
 ( x ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Transparência Arquitetural do Ambiente (0 a 2): 1
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 1
 	- Justificativa: Os autores descrevem a forma que o mundo de wumpus e inteligência do agente são interpretados como redes petri, mas não detalha de maneira técnica como foi realizada a execução.
 - Capacidade de Observabilidade e Visualização (0 a 2): 0
 	- Justificativa: Os resultados são apresentados e ilustrados pelos próprios autores, mas não é citado no texto como isso é apresentado pelo código.
@@ -140,7 +141,7 @@ O artigo é um estudo experimental sobre o desenvolvimento de um agente baseado 
 ( x ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Transparência Arquitetural do Ambiente (0 a 2): 1
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 1
 	- Justificativa: O trabalho detalha bem sobre como o agente é construído, apresentando as ferramentas que foram utilizadas, como o Python e Prolog, e a biblioteca pySwip, apesar de não ser tão específico sobre esse processo, porém não apresenta muitos detalhes sobre a execução do agente no ambiente. Temos um exemplo de uma saída da execução, em um terminal ou arquivo de texto, dando a entender que a execução é feita via terminal ou diretamente por código, mas isso não é citado diretamente pelos autores.
 - Capacidade de Observabilidade e Visualização (0 a 2): 0
 	- Justificativa: O foco do autor é a coleta de dados, então a execução do agente é realizada rapidamente sem a possibilidade de visualização em tempo real. É mencionada a coleta de dados gerados das execuções, e até demonstrado um exemplo de saída desses dados, mas em nenhum lugar é mencionado sobre como os dados são apresentados ao usuário.
@@ -171,7 +172,7 @@ Nota recebida nessa avaliação: 1
 (   ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Transparência Arquitetural do Ambiente (0 a 2): 
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 
 	- Justificativa: 
 - Capacidade de Observabilidade e Visualização (0 a 2): 
 	- Justificativa: 

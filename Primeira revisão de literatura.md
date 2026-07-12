@@ -44,10 +44,10 @@ Intervalo de busca: 10 ou 15 anos
 **Justificativa:** Os três critérios de inclusão serão o filtro para a seleção de trabalhos que de fato desenvolvem e testam pelo menos um agente inteligente no mundo de wumpus e forneçam os detalhes disso, dessa forma, será possível extrair a informação de como esse teste e resultados são visualizados, e o quão fácil é o uso disso. Os dois critérios de exclusão servem como uma camada complementar para esse filtro, removendo da lista trabalhos que estão hospedados em sites pagos, e trabalhos que não desenvolvem esse sistema na prática.
 
 ## Critérios de qualidade
-1. Transparência Arquitetural do Ambiente
-	- 0: O autor apenas menciona que rodou o agente, sem dar nenhum detalhe do ambiente de execução.
-	- 1: O autor descreve brevemente o ambiente em texto (ex: menciona a linguagem ou uma biblioteca), mas sem diagramas ou especificações profundas.
-	- 2: Descrição detalhada, apresentando a lógica de funcionamento, requisitos do sistema, diagramas de blocos ou fluxo de execução.
+1. Detalhamento do Ciclo de Execução e Operação
+	- 0: O autor foca exclusivamente no algoritmo do agente; o ambiente é tratado de forma genérica, sem qualquer menção de como a simulação é inicializada, como os ciclos de execução operam ou como os resultados são exibidos.
+	- 1: O texto descreve brevemente o fluxo de passos do teste, mas omite os detalhes operacionais de como o sistema processa os turnos, renderiza o estado atual ou gera o feedback visual/textual durante a execução.
+	- 2: O trabalho descreve o ciclo de vida da simulação, detalhando a mecânica de execução do loop do jogo ou especificando como as ações do agente e as respostas do ambiente são processadas e apresentadas ao usuário.
 2. Capacidade de Observabilidade e Visualização
 	- 0: O sistema funciona como uma "caixa-preta" (apenas computa os dados e não mostra a execução).
 	- 1: Visualização textual ou rudimentar (ex: logs brutos no terminal, _prints_ da matriz do grid via texto).
