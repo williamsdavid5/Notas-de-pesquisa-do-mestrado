@@ -61,9 +61,9 @@ Intervalo de busca: 10 ou 15 anos
 	- 1: O ambiente é isolado do agente, mas estruturado puramente como um pacote de código/API local para desenvolvedores.
 	- 2: O sistema se apresenta ou tem potencial claro de uma ferramenta/plataforma pronta e acabada para uso por terceiros (independente de ser via desktop ou web).
 5. Simplicidade de Replicação e Implantação
-	- 0: Não há qualquer pista de como replicar; exige dependências obscuras ou ambiente altamente restrito.
-	- 1: Exige instalação local complexa, compilação de código-fonte, gerenciadores de pacotes específicos ou configuração de variáveis de ambiente.
-	- 2: Implantação trivial ou nula (ex: ferramenta Web "zero instalação" ou executável de clique único).
+	- 0: Não há qualquer pista de como replicar; exige dependências obscuras ou ambiente altamente restrito; O trabalho apresenta apenas a descrição teórica, lógica ou conceitual do ambiente, sem fornecer o código-fonte ou o artefato executável; ou o repositório é inexistente, exigindo que terceiros programem o sistema do zero para replicá-lo.
+	- 1: O código-fonte é fornecido, mas exige instalação local complexa, compilação manual, dependências obscuras, gerenciadores de pacotes específicos ou configuração manual de variáveis de ambiente.
+	- 2: Implantação trivial, automatizada ou nula (ex: ambiente em container Docker pronto, ferramenta Web de acesso direto "zero instalação" ou executável de clique único).
 ## Artigos encontrados
 De forma "bruta", os artigos que foram encontrados serão listados e comentados em [[Artigos Encontrados]].
 
