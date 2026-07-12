@@ -1,5 +1,37 @@
 
 ---
+### TRABALHO 1
+1º) Metadados básicos
+- Título: Non-Player Character Decision-Making With Prolog and Ontologies
+- Ano: 2023
+- Autores: Sylvain Lapeyrade; Christophe Rey
+- Veículo: 2023 IEEE Conference on Games (CoG)
+- Base: IEEE Xplore
+
+
+2º) Contextualização do trabalho:
+O artigo propõe uma abordagem para tomada de decisão para NPCs em jogos, utilizando uma abordagem declarativa Prolog e ontologias. Isso é testado em uma versão mais complexa do mundo de wumpus desenvolvida no Unity.
+
+  
+3º) Propósito primário do ambiente:
+( x ) plataformas dedicadas ao teste por terceiros
+(   ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Transparência Arquitetural do Ambiente (0 a 2): 2
+	- Justificativa: Não é mencionado no texto do artigo, mas foi disponibilizado o link para um código de prova do ambiente Unity, assim como um vídeo de demonstração. Infelizmente o link não está mais acessível, mas o artigo ganha essa nota por disponibilizar.
+- Capacidade de Observabilidade e Visualização (0 a 2): 2
+	- Justificativa: Foi desenvolvida uma interface gráfica para a visualização da execução, com a perspectiva do agente e a visão geral do ambiente, uma visualização bem elaborada.
+- Nível de interação e parametrização do usuário (0 a 2): 2
+	- Justificativa: O usuário pode gerar um mundo aleatório se baseando em uma lógica de sementes, e escolher entre tipos de IA disponíveis no protótipo (IA baseada em lógica, baseada em instruções condicionais feitas à mão, máquinas de estados finitos e árvores de comportamento).
+- Prontidão para uso como Plataforma (0 a 2): 2
+	- Justificativa: O fato de apresentar os resultados em duas perspectivas, e a possibilidade de parametrização desse sistema pelo usuário, já caracteriza esse projeto como pronto ou parcialmente pronto para ser usado como uma plataforma de testes.
+- Simplicidade de Replicação e Implantação (0 a 2): 2
+	- Justificativa: Os autores fornecem o link para o código do ambiente de prova em Unity, por não estar mais acessível, não foi possível identificar o nível de facilidade de teste desse código, mas a nota é justificada pela própria possibilidade de acesso ao código fonte.
+
+Nota recebida nessa avaliação: 10
+
+---
 ### TRABALHO 0
 1º) Metadados básicos
 - Título:
@@ -17,7 +49,7 @@
 (   ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Nível de detalhamento da arquitetura/metodologia do ambiente (0 a 2): 
+- Transparência Arquitetural do Ambiente (0 a 2): 
 	- Justificativa: 
 - Capacidade de Observabilidade e Visualização (0 a 2): 
 	- Justificativa: 
@@ -47,7 +79,7 @@ De forma simplificada, o trabalho busca resolver o problema do mundo de wumpus u
 ( x ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Nível de detalhamento da arquitetura/metodologia do ambiente (0 a 2): 1
+- Transparência Arquitetural do Ambiente (0 a 2): 1
 	- Justificativa: O detalhamento não é nulo, mas incompleto, os autores descrevem um código lógico sobre como o agente toma as decisões, mas não dão detalhes sobre a execução e visualização dos resultados, não apresentam códigos nem diagramas sobre a arquitetura do ambiente, nem cita de forma aprofundada as bibliotecas.
 - Capacidade de Observabilidade e Visualização (0 a 2): 0
 	- Justificativa: Apenas faz o processamento mas não mostra de forma visual o agente tomando as decisões pelo mundo, mesmo pelo terminal. Na verdade os autores nem mesmo dão detalhes sobre como isso é visualizado, mas pelas suas descrições, notamos que esse sistema é 100% código.
@@ -78,7 +110,7 @@ Os autores desenvolvem um agente que tomas as decisões utilizando uma lógica c
 ( x ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Nível de detalhamento da arquitetura/metodologia do ambiente (0 a 2): 1
+- Transparência Arquitetural do Ambiente (0 a 2): 1
 	- Justificativa: Os autores descrevem a forma que o mundo de wumpus e inteligência do agente são interpretados como redes petri, mas não detalha de maneira técnica como foi realizada a execução.
 - Capacidade de Observabilidade e Visualização (0 a 2): 0
 	- Justificativa: Os resultados são apresentados e ilustrados pelos próprios autores, mas não é citado no texto como isso é apresentado pelo código.
@@ -108,7 +140,7 @@ O artigo é um estudo experimental sobre o desenvolvimento de um agente baseado 
 ( x ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Nível de detalhamento da arquitetura/metodologia do ambiente (0 a 2): 1
+- Transparência Arquitetural do Ambiente (0 a 2): 1
 	- Justificativa: O trabalho detalha bem sobre como o agente é construído, apresentando as ferramentas que foram utilizadas, como o Python e Prolog, e a biblioteca pySwip, apesar de não ser tão específico sobre esse processo, porém não apresenta muitos detalhes sobre a execução do agente no ambiente. Temos um exemplo de uma saída da execução, em um terminal ou arquivo de texto, dando a entender que a execução é feita via terminal ou diretamente por código, mas isso não é citado diretamente pelos autores.
 - Capacidade de Observabilidade e Visualização (0 a 2): 0
 	- Justificativa: O foco do autor é a coleta de dados, então a execução do agente é realizada rapidamente sem a possibilidade de visualização em tempo real. É mencionada a coleta de dados gerados das execuções, e até demonstrado um exemplo de saída desses dados, mas em nenhum lugar é mencionado sobre como os dados são apresentados ao usuário.
@@ -122,7 +154,7 @@ O artigo é um estudo experimental sobre o desenvolvimento de um agente baseado 
 Nota recebida nessa avaliação: 1
 
 ---
-### TRABALHO 0
+### TRABALHO 00
 1º) Metadados básicos
 - Título:
 - Ano:
@@ -139,7 +171,7 @@ Nota recebida nessa avaliação: 1
 (   ) infraestruturas acessórias focadas na validação de agentes específicos
 
 4º) Critérios de qualidade:
-- Nível de detalhamento da arquitetura/metodologia do ambiente (0 a 2): 
+- Transparência Arquitetural do Ambiente (0 a 2): 
 	- Justificativa: 
 - Capacidade de Observabilidade e Visualização (0 a 2): 
 	- Justificativa: 
