@@ -65,7 +65,7 @@ Nota recebida nessa avaliação:
 
 ---
 
-### TRABALHO 00
+### TRABALHO 0
 1º) Metadados básicos
 - Título: Interpreting Deep Q-Networks: A Rule-Based Comparison with First-Order Logic in Wumpus World
 - Ano: 2024
@@ -97,7 +97,40 @@ Nota recebida nessa avaliação: 6
 
 ---
 
-### TRABALHO 00
+### TRABALHO 0
+1º) Metadados básicos
+- Título: LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system
+- Ano: 2025
+- Autores: Huanyu Li, Zongyuan Li, Wei Huang, Xian Guo
+- Veículo: arXiv
+- Base: Google Scholar / arXiv
+
+
+2º) Contextualização do trabalho:
+Os autores propõem uma estrutura de benchmark leve projetado para avaliar e aprimorar as capacidades de raciocínio de modelos de linguagem LLM. O LLM-Cave utiliza a lógica do mundo de wumpus como ambiente de teste. Vale ressaltar que o "agente" aqui seria o LLM que iria testar a plataforma.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Os autores detalham tanto quanto é possível o processo de execução, sendo via linhas, que retornam detalhes das execuções a cada passo, como as percepções. Um exemplo dessa estrutura é disponibilizado no artigo, e uma captura da janela de apresentação dessa informação, é exibida.
+- Capacidade de Observabilidade e Visualização (0 a 2): 1
+	- Justificativa: Não foi desenvolvida uma interface gráfica para a visualização da execução, mas é possível ver os resultados de cada passo com um log personalizado, contendo informações completas sobre o estado do agente a cada passo.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Os autores mencionam parâmetros que foram usados nos testes, mas não mencionam como eles podem ser definidos na execução, deixando aberta a possibilidade de ser via código.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O sistema não desenvolve visualização gráfica, o artigo não cita em nenhum momento a possibilidade configuração da execução por parte do usuário. 
+- Simplicidade de Replicação e Implantação (0 a 2): 2
+	- Justificativa: Os autores disponibilizam o link direto ao repositório dos códigos, mas infelizmente não está mais acessível.
+
+Nota recebida nessa avaliação: 5
+
+
+---
+
+### TRABALHO 0
 1º) Metadados básicos
 - Título: Intention Reconsideration in Wumpus World And Intentional Inference in Adolescents
 - Ano: 2018
