@@ -64,6 +64,38 @@ Nota recebida nessa avaliação: 10
 Nota recebida nessa avaliação: 
 
 ---
+
+### TRABALHO 00
+1º) Metadados básicos
+- Título: Intention Reconsideration in Wumpus World And Intentional Inference in Adolescents
+- Ano: 2018
+- Autores: Carlos Pelta
+- Veículo: BRAIN. Broad Research In Artificial Intelligence And Neuroscience
+- Base: Google Scholar / brain.edusoft.ro
+
+
+2º) Contextualização do trabalho:
+O mundo de wumpus foi um cenário de teste psicológico em adolescentes, que buscava entender como a adolescência afeta a inferência intencional e a reconsideração de intenções. a versão clássica e uma versão levemente modificada do mundo de wumpus foram desenvolvidas, e os adolescentes acompanhavam execuções e tentavam prever o comportamento do agente, que foi desenvolvido para ter um comportamento mais cauteloso.
+  
+3º) Propósito primário do ambiente:
+( x ) plataformas dedicadas ao teste por terceiros
+(   ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: O foco do artigo não é programação ou inteligência artificial, mas analisar as tomadas de decisão dos participantes, porém é descrito como a visualização é feita e algumas capturas de tela são apresentadas, mostrando que os resultados são exibidos graficamente. O texto também menciona que os participantes foram distribuídos em computadores, instruções foram passadas e um manual foi disponibilizado, indicando que foi desenvolvido um software com um certo nível de simplicidade.
+- Capacidade de Observabilidade e Visualização (0 a 2): 2
+	- Justificativa: O fato de apresentar a execução graficamente já justifica a nota.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Muitos parâmetros são fixos no código, como a dimensão do tabuleiro, tempo de espera entre os passos, número de passos até o wumpus despertar e até o tamanho da janela apresentada. O usuário só consegue reiniciar a execução e escolher entre os modos de passo automático ou manual. A geração do mundo é aleatória e automática a cada execução, ou seja, o jogo sempre começa com um mundo diferente.
+- Prontidão para uso como Plataforma (0 a 2): 1
+	- Justificativa: A apresentação visual da execução já é um grande passo para o uso desse sistema por terceiros, mas por ainda ser um software fechado, com nível de parametrização baixo ou nulo, podemos concluir que esse sistema ainda não está pronto para o uso como plataforma.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: Um código é anexado ao artigo, mas partes cruciais estão faltando, sendo necessária a replicação da programação para que o sistema funcione.
+
+Nota recebida nessa avaliação: 5
+
+---
 ### TRABALHO 0
 1º) Metadados básicos
 - Título: Algoritmo Genético como Mecanismo de Aprendizagem do Agente na Resolução do Mundo de Wumpus

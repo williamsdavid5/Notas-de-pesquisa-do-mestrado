@@ -64,6 +64,8 @@ Intervalo de busca: 10 ou 15 anos
 	- 0: Não há qualquer pista de como replicar; exige dependências obscuras ou ambiente altamente restrito; O trabalho apresenta apenas a descrição teórica, lógica ou conceitual do ambiente, sem fornecer o código-fonte ou o artefato executável; ou o repositório é inexistente, exigindo que terceiros programem o sistema do zero para replicá-lo.
 	- 1: O código-fonte é fornecido, mas exige instalação local complexa, compilação manual, dependências obscuras, gerenciadores de pacotes específicos ou configuração manual de variáveis de ambiente.
 	- 2: Implantação trivial, automatizada ou nula (ex: ambiente em container Docker pronto, ferramenta Web de acesso direto "zero instalação" ou executável de clique único).
+
+Observação: Os critérios de qualidade adotados não têm como objetivo avaliar a qualidade intrínseca da escrita ou do conteúdo dos trabalhos analisados. Seu propósito é servir como parâmetros quantitativos para mensurar o grau de alinhamento dos estudos com os aspectos que se pretende identificar, funcionando como indicadores do estado da arte e auxiliando na demonstração de possíveis lacunas de pesquisa.
 ## Artigos encontrados
 De forma "bruta", os artigos que foram encontrados serão listados e comentados em [[Artigos Encontrados]].
 
