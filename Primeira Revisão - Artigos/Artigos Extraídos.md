@@ -64,7 +64,7 @@ Nota recebida nessa avaliação: 10
 Nota recebida nessa avaliação: 
 
 ---
-### TRABALHO 00
+### TRABALHO 0
 1º) Metadados básicos
 - Título: Algoritmo Genético como Mecanismo de Aprendizagem do Agente na Resolução do Mundo de Wumpus
 - Ano: 2019
@@ -215,6 +215,39 @@ O artigo é um estudo experimental sobre o desenvolvimento de um agente baseado 
 	- Justificativa: O trabalho foca totalmente na lógica do agente, então o projeto proposto não chega perto de uma plataforma de testes, mesmo minimamente pronta para uso.
 - Simplicidade de Replicação e Implantação (0 a 2): 0
 	- Justificativa: O autor menciona as tecnologias e a lógica do código, mas não apresenta linhas de código ou link do que foi desenvolvido, apesar de referenciar o repositório de um simulador Prolog do mundo de wumpus.
+
+Nota recebida nessa avaliação: 1
+
+---
+
+### TRABALHO 0
+1º) Metadados básicos
+- Título: Algoritmos Genéticos aplicado ao mundo de Wumpus: uma comparação entre agentes baseados em regras e agentes inteligentes
+- Ano: 2021
+- Autores: Victor S. Martins, Julio Cezar Gonçalves de Freitas, Ingrid Nery Mendes, Otávio Noura Teixeira
+- Veículo: Anais da I Escola Regional de Alto Desempenho Norte 2 (ERAD-NO2) e I Escola Regional de Aprendizado de Máquina e Inteligência Artificial Norte 2 (ERAMIA-NO2) — publicado pela SBC (Sociedade Brasileira de Computação)
+- Base: Google Scholar, SOL / SBC OpenLib (Biblioteca Digital da SBC)
+
+
+2º) Contextualização do trabalho:
+Esse trabalho testa algumas variações de algoritmos genéticos no mundo de wumpus, apresentando os resultados e buscando identificar a melhor solução entre as soluções propostas.
+
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 1
+	- Justificativa: Os autores descrevem o planejamento dos testes e parâmetros de execução, mas não detalham como os resultados são exibidos ao usuário, isso é esperado de um artigo que foca no desempenho do agente em vez do ambiente de teste.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: Não foi descrita de nenhuma forma a Observabilidade das execuções e dos resultados, dando a entender que as execuções foram feitas em segundo plano.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Os autores deixam claro que os parâmetros são rigorosamente estáticos.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O ambiente de testes não foi descrito, o que é um forte indício de que esse ambiente é puramente código.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: Nenhum código é fornecido, nem uma estrutura lógica alguma pista de como replicar o ambiente de testes em termos de programação.
 
 Nota recebida nessa avaliação: 1
 
