@@ -67,6 +67,38 @@ Nota recebida nessa avaliação:
 
 ### TRABALHO 00
 1º) Metadados básicos
+- Título: Interpreting Deep Q-Networks: A Rule-Based Comparison with First-Order Logic in Wumpus World
+- Ano: 2024
+- Autores: Filip Pawlicki, Kamil Dobies, Marcin Pucek, Karol Draszawka
+- Veículo: TASK Quarterl, volume 8, number 4
+- Base: Google Scholar / Bridge of Journals
+
+
+2º) Contextualização do trabalho:
+O objetivo central do artigo é enfrentar o desafio da interpretabilidade em modelos de aprendizado por reforço profundo, especificamente as redes Deep Q-Networks. O foco são aspectos da inteligência dos agentes, não a usabilidade da plataforma.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Os autores não detalham o processo de execução e apresentação do resultado das execução, não é descrito um passo a passo mínimo de como executar o código, mas a nota se justifica pela própria disponibilização de todos os arquivos de código, o que dá a possibilidade de saber como o processo de execução é feito.
+- Capacidade de Observabilidade e Visualização (0 a 2): 2
+	- Justificativa: Não são dados detalhes no artigo, mas ao que se pode notar no código, é feita a visualização da execução do agente, mesmo que de forma mais simplificada. Os resultados gerais também são apresentados com uma certa variação de opções, como uma tabela de resultados, apresentada no artigo.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: A parametrização é totalmente via código.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: Apesar de exibir a execução em uma interface gráfica, esse é o único aspecto que é exibido, o restante é tudo definido via código, tornando um sistema muito longe de ser uma plataforma de testes.
+- Simplicidade de Replicação e Implantação (0 a 2): 2
+	- Justificativa: Todos os códigos são disponibilizados pelos autores no github, permitindo a fácil replicação da ferramenta.
+
+Nota recebida nessa avaliação: 6
+
+---
+
+### TRABALHO 00
+1º) Metadados básicos
 - Título: Intention Reconsideration in Wumpus World And Intentional Inference in Adolescents
 - Ano: 2018
 - Autores: Carlos Pelta
