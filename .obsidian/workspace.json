@@ -6,7 +6,7 @@
       {
         "id": "2c5bb4a233e7ea83",
         "type": "tabs",
-        "dimension": 52.14477211796247,
+        "dimension": 44.452501812907904,
         "children": [
           {
             "id": "b761639a9b534c82",
@@ -27,7 +27,7 @@
       {
         "id": "a943130b8a2a0ba5",
         "type": "tabs",
-        "dimension": 47.85522788203753,
+        "dimension": 55.547498187092096,
         "children": [
           {
             "id": "a85dfa3b0a64023f",
@@ -71,8 +71,7 @@
               "title": "Artigos Encontrados"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,12 +234,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "58f07b33125bbb5d",
+  "active": "b761639a9b534c82",
   "lastOpenFiles": [
-    "Primeira revisão de literatura.md",
     "Primeira Revisão - Artigos/Tabelas.md",
     "Primeira Revisão - Artigos/Artigos Extraídos.md",
     "Primeira Revisão - Artigos/Artigos Encontrados.md",
+    "Primeira revisão de literatura.md",
     "Primeira Revisão - Artigos/Artigos interessantes.md",
     "Primeira Revisão - Artigos/Sem título",
     "Pasted image 20260711155202.png",

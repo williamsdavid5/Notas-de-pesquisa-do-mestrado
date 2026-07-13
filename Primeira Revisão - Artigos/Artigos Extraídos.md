@@ -32,6 +32,70 @@ O artigo propõe uma abordagem para tomada de decisão para NPCs em jogos, utili
 Nota recebida nessa avaliação: 10
 
 ---
+
+### TRABALHO 00
+1º) Metadados básicos
+- Título:
+- Ano:
+- Autores:
+- Veículo:
+- Base:
+
+
+2º) Contextualização do trabalho:
+
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+(   ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 
+	- Justificativa: 
+- Capacidade de Observabilidade e Visualização (0 a 2): 
+	- Justificativa: 
+- Nível de interação e parametrização do usuário (0 a 2): 
+	- Justificativa:
+- Prontidão para uso como Plataforma (0 a 2): 
+	- Justificativa:
+- Simplicidade de Replicação e Implantação (0 a 2): 
+	- Justificativa: 
+
+Nota recebida nessa avaliação: 
+
+---
+### TRABALHO 00
+1º) Metadados básicos
+- Título: Algoritmo Genético como Mecanismo de Aprendizagem do Agente na Resolução do Mundo de Wumpus
+- Ano: 2019
+- Autores Natália Freitas Araújo, Adriano A. Addario dos Santos, Otávio Noura Teixeira
+- Veículo: Trabalho de Curso – Faculdade de Engenharia da Computação, Universidade Federal do Pará
+- Base: Biblioteca Digital de Monografias - UFPA
+
+
+2º) Contextualização do trabalho:
+Utilizando a técnica do algoritmo genético para o desenvolvimento de um agente baseado em aprendizagem, esse agente foi testado no cenário do mundo de wumpus. O foco do trabalho é a investigação da eficácia de um algoritmo genético para a resolução do problema do mundo de wumpus. 4.200 execuções foram feitas e os resultados foram mistos, pois a técnica aplicada pelo autor se mostrou muito eficiente em ambientes menores, mas com um mal desempenho em ambientes mais desafiadores.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: A descrição da operação foi altamente detalhada, com toda a parametrização utilizada pelos autores e a forma como os resultados são apresentados, não foi citado explicitamente se a execução é apresentada em tempo real para o usuário, mas isso já era esperado baseado na proposta do artigo. Com a informação dessa grande quantidade de execuções realizadas, podemos concluir que as execuções são feitas em segundo plano, e os resultados são salvos automaticamente em alguns formatos úteis.
+- Capacidade de Observabilidade e Visualização (0 a 2): 1
+	- Justificativa: Os autores não chegam a desenvolver uma interface gráfica amigável para a visualização da execução, pois a proposta do trabalho é o teste dos agentes, não a usabilidade. No entanto, a geração e apresentação dos ambientes em forma de gráficos, e a geração automática de gráficos dos resultados das execuções, justificam a nota.
+- Nível de interação e parametrização do usuário (0 a 2): 1
+	- Justificativa: O artigo não propõe uma plataforma de testes por terceiros, mas ainda há um nível baixo de parametrização, ainda que manual.  A nota se justifica pelo gerador aleatório de mundos, que permite com que o usuário "escolha" um ambiente de testes, o gerador salva o mundo em formato de imagem e .csv, permitindo que o usuário visualize e use aquele mapa na execução.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O artigo não propõe o uso de uma plataforma por terceiros, apenas testa os agentes.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: A proposta do artigo é o desenvolvimento e geração em massa de dados de teste, então não é apresentado nenhum código, seja lógico ou em linguagem de programação, nenhum link de repositório ou até mesmo um diagrama estrutural do ambiente de testes.
+
+Nota recebida nessa avaliação: 4
+
+
+---
 ### TRABALHO 0
 1º) Metadados básicos
 - Título: A multi context dynamic test bed for simulating real world constraints in agents' teamwork
