@@ -33,6 +33,8 @@ Nota recebida nessa avaliação: 10
 
 ---
 
+
+
 ### TRABALHO 00
 1º) Metadados básicos
 - Título:
@@ -347,6 +349,38 @@ Esse trabalho testa algumas variações de algoritmos genéticos no mundo de wum
 	- Justificativa: Nenhum código é fornecido, nem uma estrutura lógica alguma pista de como replicar o ambiente de testes em termos de programação.
 
 Nota recebida nessa avaliação: 1
+
+---
+
+### TRABALHO 0
+1º) Metadados básicos
+- Título: Intelligent agents capable of developing memory of their environment
+- Ano: 
+- Autores: Gul Muhammad Khan, Julian F. Miller, and David M. Halliday
+- Veículo: 
+- Base: Google Scholar / Research Gate
+
+
+2º) Contextualização do trabalho:
+Os autores desenvolveram um modelo computacional do cérebro inspirado na neurociência, o agente se desenvolve durante a interação com o mundo de wumpus, esse desenvolvimento possui um certo nível de semelhança com o desenvolvimento real no cérebro, em que neurônios nascem e morrem conforme aprendemos.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 0
+	- Justificativa: Os parâmetros do experimento são muito bem detalhados, mas a operação do código do jogo não é mencionada em nenhum momento.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: Os autores não deixam claro se a execução é exibida, o que nós vemos são capturas de tela da evolução do cérebro do agente, isso é muito interessante e é o foco do trabalho, mas o nosso foco é a visualização da execução, e não vemos isso descrito de forma clara no artigo.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Como não foi detalhado o ciclo de operação, não temos informações sobre a parametrização, de acordo com as descrições, podemos concluir que o sistema é totalmente voltado ao teste do agente.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O sistema é totalmente voltado ao experimento, não temos informações sobre o ciclo de operação do código nem visualização, então podemos concluir que o sistema é completamente linhas de código.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: Apesar de descrever o experimento, não temos descrições técnicas que permitam uma replicação ou uso desse sistema por terceiros.
+
+Nota recebida nessa avaliação: 0
 
 ---
 ### TRABALHO 00
