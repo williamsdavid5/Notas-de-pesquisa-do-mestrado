@@ -33,6 +33,7 @@ Nota recebida nessa avaliação: 10
 
 ---
 
+
 ### TRABALHO 00
 1º) Metadados básicos
 - Título:
@@ -162,38 +163,7 @@ Nota recebida nessa avaliação: 5
 
 ---
 
-### TRABALHO 0
-1º) Metadados básicos
-- Título: AFLUX Agent for the Wumpus World
-- Ano: 
-- Autores: Michael Thielscher
-- Veículo:
-- Base: Google Scholar
 
-
-2º) Contextualização do trabalho:
-O artigo descreve o desenvolvimento de um agente inteligente para o clássico ambiente do Mundo de Wumpus utilizando o FLUX, um método de programação de alto nível voltado para o design de agentes que raciocinam logicamente sob condições de conhecimento incompleto
-  
-3º) Propósito primário do ambiente:
-(   ) plataformas dedicadas ao teste por terceiros
-( x ) infraestruturas acessórias focadas na validação de agentes específicos
-
-4º) Critérios de qualidade:
-- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
-	- Justificativa: Todo o ciclo de execução é definido pela linguagem lógica apresentada no trabalho, e como o foco do artigo é justamente o uso dessa linguagem, temos um nível alto de detalhamento quanto à execução do agente no mundo, mesmo que não haja detalhes técnicos, como o início da execução do próprio código.
-- Capacidade de Observabilidade e Visualização (0 a 2): 0
-	- Justificativa: Temos representações do ambiente e tabelas no artigo, mas em nenhum momento é mencionado que são representações geradas pelo próprio ambiente de testes.
-- Nível de interação e parametrização do usuário (0 a 2): 0
-	- Justificativa: O nível de parametrização é relativamente alto, mas isso é feito através da linguagem mostrada no artigo.
-- Prontidão para uso como Plataforma (0 a 2): 0
-	- Justificativa: O sistema não se propõe a ser uma plataforma de testes, toda a parametrização é definida via código, e não há descrições indicando que os resultados saiam de forma amigável para um possível usuário.
-- Simplicidade de Replicação e Implantação (0 a 2): 2
-	- Justificativa: Além de detalhar a programação lógica do agente e da execução no próprio artigo, é disponibilizado um link para os arquivos de código. Infelizmente está inacessível, mas essa disponibilização justifica a nota.
-
-Nota recebida nessa avaliação: 4
-
-
----
 ### TRABALHO 0
 1º) Metadados básicos
 - Título: Algoritmo Genético como Mecanismo de Aprendizagem do Agente na Resolução do Mundo de Wumpus
@@ -256,6 +226,38 @@ Os autores testam múltiplos agentes atuando ao mesmo tempo no mundo de wumpus, 
 	- Justificativa: Apenas pistas são dadas sobre como replicar os testes, o detalhamento é até relativamente alto, fornecendo em alguns momentos os nomes de classes e uma estrutura lógica do padrão de projeto, mas não fornece nenhum código fonte, mesmo de forma parcial, ou diagrama lógico para o funcionamento do sistema.
 
 Nota recebida nessa avaliação: 4
+
+---
+
+### TRABALHO 00
+1º) Metadados básicos
+- Título: Modeling of the Wumpus World to Evaluate the Difficulty Level of the Game using Coloured Petri Net
+- Ano:  2025
+- Autores: Ali Naghash Asadi; Mahrou Pourjani; Ali Mirsaeed Ghazi
+- Veículo: Journal of Algorithms and Computation
+- Base: Google Scholar / jac.ut.ac.ir
+
+
+2º) Contextualização do trabalho:
+Os autores propõem um modelo de agente aplicado ao mundo de wumpus que utiliza redes Petri Coloridas. O modelo permite que desenvolvedores de games simulem vários cenários de jogos utilizando esse algoritmo.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: A execução é feita na ferramenta "CPN Tools", e as redes Petri são disponibilizadas no artigo, assim como outros códigos e diagramas.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: A visualização é feita através da lógica de redes Petri, a justificativa para a nota se dá pela necessidade de adquirir o conhecimento prévio sobre redes Petri antes executar.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Toda a interação é feita através da ferramenta CPN Tools, para que isso seja feito, necessita-se de conhecimento prévio sobre redes Petri.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O trabalho não propõe uma ferramenta, utilizando uma ferramenta de terceiros.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: Os autores disponibilizam detalhes sobre o desenvolvimento do projeto, porém a necessidade do conhecimento prévio sobre redes Petri comprometem a replicação.
+
+Nota recebida nessa avaliação: 2
 
 ---
 ### TRABALHO 0
@@ -443,3 +445,39 @@ Nota recebida nessa avaliação: 0
 	- Justificativa: 
 
 Nota recebida nessa avaliação: 
+
+
+
+
+
+
+Esse foi removido depois:
+### TRABALHO 0
+1º) Metadados básicos
+- Título: AFLUX Agent for the Wumpus World
+- Ano: 
+- Autores: Michael Thielscher
+- Veículo:
+- Base: Google Scholar
+
+
+2º) Contextualização do trabalho:
+O artigo descreve o desenvolvimento de um agente inteligente para o clássico ambiente do Mundo de Wumpus utilizando o FLUX, um método de programação de alto nível voltado para o design de agentes que raciocinam logicamente sob condições de conhecimento incompleto
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Todo o ciclo de execução é definido pela linguagem lógica apresentada no trabalho, e como o foco do artigo é justamente o uso dessa linguagem, temos um nível alto de detalhamento quanto à execução do agente no mundo, mesmo que não haja detalhes técnicos, como o início da execução do próprio código.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: Temos representações do ambiente e tabelas no artigo, mas em nenhum momento é mencionado que são representações geradas pelo próprio ambiente de testes.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: O nível de parametrização é relativamente alto, mas isso é feito através da linguagem mostrada no artigo.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O sistema não se propõe a ser uma plataforma de testes, toda a parametrização é definida via código, e não há descrições indicando que os resultados saiam de forma amigável para um possível usuário.
+- Simplicidade de Replicação e Implantação (0 a 2): 2
+	- Justificativa: Além de detalhar a programação lógica do agente e da execução no próprio artigo, é disponibilizado um link para os arquivos de código. Infelizmente está inacessível, mas essa disponibilização justifica a nota.
+
+Nota recebida nessa avaliação: 4
