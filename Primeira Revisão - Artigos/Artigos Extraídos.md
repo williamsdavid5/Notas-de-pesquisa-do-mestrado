@@ -34,35 +34,6 @@ Nota recebida nessa avaliação: 10
 ---
 
 
-### TRABALHO 00
-1º) Metadados básicos
-- Título:
-- Ano:
-- Autores:
-- Veículo:
-- Base:
-
-
-2º) Contextualização do trabalho:
-
-  
-3º) Propósito primário do ambiente:
-(   ) plataformas dedicadas ao teste por terceiros
-(   ) infraestruturas acessórias focadas na validação de agentes específicos
-
-4º) Critérios de qualidade:
-- Detalhamento do Ciclo de Execução e Operação (0 a 2): 
-	- Justificativa: 
-- Capacidade de Observabilidade e Visualização (0 a 2): 
-	- Justificativa: 
-- Nível de interação e parametrização do usuário (0 a 2): 
-	- Justificativa:
-- Prontidão para uso como Plataforma (0 a 2): 
-	- Justificativa:
-- Simplicidade de Replicação e Implantação (0 a 2): 
-	- Justificativa: 
-
-Nota recebida nessa avaliação: 
 
 
 ---
@@ -416,6 +387,38 @@ Os autores desenvolveram um modelo computacional do cérebro inspirado na neuroc
 Nota recebida nessa avaliação: 0
 
 ---
+### TRABALHO 00
+1º) Metadados básicos
+- Título: Individual vs. Joint Perception: a Pragmatic Model of Pointing as Communicative Smithian Helping
+- Ano: 2021
+- Autores: Kaiwen Jiang and Stephanie Stacy and Chuyu Wei and Adelpha Chan and Federico Rossano and Yixin Zhu and Tao Gao
+- Veículo: arxiv
+- Base: Google Scholar / arxiv
+
+
+2º) Contextualização do trabalho:
+O trabalho modela um agente em que, sua crença sobre o ambiente é atualizada por observações, e desenvolve um sistema de apontar para a comunicação multiagente.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 0
+	- Justificativa: Não são dados detalhes sobre a usabilidade do ambiente de testes, já que o trabalho foca na lógica dos agentes.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: O foco do trabalho é a inteligência dos agentes, então não foi desenvolvida nenhuma forma de visualização. Os autores mencionam métrica e apresentam gráficos, mas em nenhum momento isso é descrito como uma saída gerada automaticamente pela ferramenta.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Por ser completamente código, não há nenhum nível de interação de um possível usuário com a plataforma de testes.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: Por ser totalmente código, ainda está muito distante de ser uma plataforma.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: Nenhum código fonte é apresentado em anexo, ou mencionado no texto, nenhuma estrutura lógica do sistema foi apresentada no artigo, as descrições são puramente lógicas.
+
+Nota recebida nessa avaliação: 0
+
+
+Base para preenchimento
 ### TRABALHO 00
 1º) Metadados básicos
 - Título:
