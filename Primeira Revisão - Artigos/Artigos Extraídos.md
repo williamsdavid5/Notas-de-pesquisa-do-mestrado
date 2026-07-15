@@ -33,8 +33,6 @@ Nota recebida nessa avaliação: 10
 
 ---
 
-
-
 ### TRABALHO 00
 1º) Metadados básicos
 - Título:
@@ -65,8 +63,8 @@ Nota recebida nessa avaliação: 10
 
 Nota recebida nessa avaliação: 
 
----
 
+---
 ### TRABALHO 0
 1º) Metadados básicos
 - Título: Interpreting Deep Q-Networks: A Rule-Based Comparison with First-Order Logic in Wumpus World
@@ -161,6 +159,39 @@ O mundo de wumpus foi um cenário de teste psicológico em adolescentes, que bus
 	- Justificativa: Um código é anexado ao artigo, mas partes cruciais estão faltando, sendo necessária a replicação da programação para que o sistema funcione.
 
 Nota recebida nessa avaliação: 5
+
+---
+
+### TRABALHO 0
+1º) Metadados básicos
+- Título: AFLUX Agent for the Wumpus World
+- Ano: 
+- Autores: Michael Thielscher
+- Veículo:
+- Base: Google Scholar
+
+
+2º) Contextualização do trabalho:
+O artigo descreve o desenvolvimento de um agente inteligente para o clássico ambiente do Mundo de Wumpus utilizando o FLUX, um método de programação de alto nível voltado para o design de agentes que raciocinam logicamente sob condições de conhecimento incompleto
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Todo o ciclo de execução é definido pela linguagem lógica apresentada no trabalho, e como o foco do artigo é justamente o uso dessa linguagem, temos um nível alto de detalhamento quanto à execução do agente no mundo, mesmo que não haja detalhes técnicos, como o início da execução do próprio código.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: Temos representações do ambiente e tabelas no artigo, mas em nenhum momento é mencionado que são representações geradas pelo próprio ambiente de testes.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: O nível de parametrização é relativamente alto, mas isso é feito através da linguagem mostrada no artigo.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O sistema não se propõe a ser uma plataforma de testes, toda a parametrização é definida via código, e não há descrições indicando que os resultados saiam de forma amigável para um possível usuário.
+- Simplicidade de Replicação e Implantação (0 a 2): 2
+	- Justificativa: Além de detalhar a programação lógica do agente e da execução no próprio artigo, é disponibilizado um link para os arquivos de código. Infelizmente está inacessível, mas essa disponibilização justifica a nota.
+
+Nota recebida nessa avaliação: 4
+
 
 ---
 ### TRABALHO 0
