@@ -37,6 +37,12 @@ Nota recebida nessa avaliação: 10
 
 
 ---
+
+
+
+
+---
+
 ### TRABALHO 0
 1º) Metadados básicos
 - Título: Interpreting Deep Q-Networks: A Rule-Based Comparison with First-Order Logic in Wumpus World
@@ -62,46 +68,12 @@ O objetivo central do artigo é enfrentar o desafio da interpretabilidade em mod
 	- Justificativa: A parametrização é totalmente via código.
 - Prontidão para uso como Plataforma (0 a 2): 0
 	- Justificativa: Apesar de exibir a execução em uma interface gráfica, esse é o único aspecto que é exibido, o restante é tudo definido via código, tornando um sistema muito longe de ser uma plataforma de testes.
-- Simplicidade de Replicação e Implantação (0 a 2): 2
+- Simplicidade de Replicação e Implantação (0 a 2): 1
 	- Justificativa: Todos os códigos são disponibilizados pelos autores no github, permitindo a fácil replicação da ferramenta.
-
-Nota recebida nessa avaliação: 6
-
----
-
-### TRABALHO 0
-1º) Metadados básicos
-- Título: LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system
-- Ano: 2025
-- Autores: Huanyu Li, Zongyuan Li, Wei Huang, Xian Guo
-- Veículo: arXiv
-- Base: Google Scholar / arXiv
-
-
-2º) Contextualização do trabalho:
-Os autores propõem uma estrutura de benchmark leve projetado para avaliar e aprimorar as capacidades de raciocínio de modelos de linguagem LLM. O LLM-Cave utiliza a lógica do mundo de wumpus como ambiente de teste. Vale ressaltar que o "agente" aqui seria o LLM que iria testar a plataforma.
-  
-3º) Propósito primário do ambiente:
-(   ) plataformas dedicadas ao teste por terceiros
-( x ) infraestruturas acessórias focadas na validação de agentes específicos
-
-4º) Critérios de qualidade:
-- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
-	- Justificativa: Os autores detalham tanto quanto é possível o processo de execução, sendo via linhas, que retornam detalhes das execuções a cada passo, como as percepções. Um exemplo dessa estrutura é disponibilizado no artigo, e uma captura da janela de apresentação dessa informação, é exibida.
-- Capacidade de Observabilidade e Visualização (0 a 2): 1
-	- Justificativa: Não foi desenvolvida uma interface gráfica para a visualização da execução, mas é possível ver os resultados de cada passo com um log personalizado, contendo informações completas sobre o estado do agente a cada passo.
-- Nível de interação e parametrização do usuário (0 a 2): 0
-	- Justificativa: Os autores mencionam parâmetros que foram usados nos testes, mas não mencionam como eles podem ser definidos na execução, deixando aberta a possibilidade de ser via código.
-- Prontidão para uso como Plataforma (0 a 2): 0
-	- Justificativa: O sistema não desenvolve visualização gráfica, o artigo não cita em nenhum momento a possibilidade configuração da execução por parte do usuário. 
-- Simplicidade de Replicação e Implantação (0 a 2): 2
-	- Justificativa: Os autores disponibilizam o link direto ao repositório dos códigos, mas infelizmente não está mais acessível.
 
 Nota recebida nessa avaliação: 5
 
-
 ---
-
 ### TRABALHO 0
 1º) Metadados básicos
 - Título: Intention Reconsideration in Wumpus World And Intentional Inference in Adolescents
@@ -133,6 +105,36 @@ O mundo de wumpus foi um cenário de teste psicológico em adolescentes, que bus
 Nota recebida nessa avaliação: 5
 
 ---
+
+### TRABALHO 0
+1º) Metadados básicos
+- Título: LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system
+- Ano: 2025
+- Autores: Huanyu Li, Zongyuan Li, Wei Huang, Xian Guo
+- Veículo: arXiv
+- Base: Google Scholar / arXiv
+
+
+2º) Contextualização do trabalho:
+Os autores propõem uma estrutura de benchmark leve projetado para avaliar e aprimorar as capacidades de raciocínio de modelos de linguagem LLM. O LLM-Cave utiliza a lógica do mundo de wumpus como ambiente de teste. Vale ressaltar que o "agente" aqui seria o LLM que iria testar a plataforma.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Os autores detalham tanto quanto é possível o processo de execução, sendo via linhas, que retornam detalhes das execuções a cada passo, como as percepções. Um exemplo dessa estrutura é disponibilizado no artigo, e uma captura da janela de apresentação dessa informação, é exibida.
+- Capacidade de Observabilidade e Visualização (0 a 2): 1
+	- Justificativa: Não foi desenvolvida uma interface gráfica para a visualização da execução, mas é possível ver os resultados de cada passo com um log personalizado, contendo informações completas sobre o estado do agente a cada passo.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Os autores mencionam parâmetros que foram usados nos testes, mas não mencionam como eles podem ser definidos na execução, deixando aberta a possibilidade de ser via código.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O sistema não desenvolve visualização gráfica, o artigo não cita em nenhum momento a possibilidade configuração da execução por parte do usuário. 
+- Simplicidade de Replicação e Implantação (0 a 2): 1
+	- Justificativa: Os autores disponibilizam o link direto ao repositório dos códigos, mas infelizmente não está mais acessível.
+
+Nota recebida nessa avaliação: 4
 
 
 ### TRABALHO 0
@@ -199,8 +201,38 @@ Os autores testam múltiplos agentes atuando ao mesmo tempo no mundo de wumpus, 
 Nota recebida nessa avaliação: 4
 
 ---
+### TRABALHO 0
+1º) Metadados básicos
+- Título: A Simple Integration of Epistemic Logic and Reinforcement Learning
+- Ano: 2025
+- Autores: Thorsten Engesser , Thibaut Le Marre, Emiliano Lorini, François Schwarzentruber, Bruno Zanuttini
+- Veículo: Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) (pp. 686-694).
+- Base: Google Scholar
 
-### TRABALHO 00
+
+2º) Contextualização do trabalho:
+Os autores abordam o desafio de integrar o aprendizado de máquina com a representação do conhecimento. Eles introduzem um framework que utiliza bases de crenças para representar o estado subjetivos de um agente. Essa estrutura é formalizada em um modelo chamado BB-POMDP (Belief Base POMDP), onde os estados e observações são definidos por fórmulas lógicas. O mundo de Wumpus é o ambiente de teste.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Além do alto nível de detalhes sobre o processo, os autores disponibilizaram um acesso direto ao código.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: Nada indica que o sistema exiba a execução do agente no jogo, nem mesmo via texto.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Toda a parametrização é definida pela lógica BB-POMDP, isso é muito longe do ideal para um usuário comum.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: O sistema é totalmente lógico, o que o deixa muito longe de ser usado como uma plataforma de testes.
+- Simplicidade de Replicação e Implantação (0 a 2): 1
+	- Justificativa: Os autores disponibilizam um link direto ao código fonte do sistema.
+
+Nota recebida nessa avaliação: 3
+
+---
+### TRABALHO 0
 1º) Metadados básicos
 - Título: Modeling of the Wumpus World to Evaluate the Difficulty Level of the Game using Coloured Petri Net
 - Ano:  2025
@@ -358,6 +390,37 @@ Nota recebida nessa avaliação: 1
 
 ### TRABALHO 0
 1º) Metadados básicos
+- Título: Better Apprenticeship Learning with LLM Explanations
+- Ano: 2024
+- Autores: Rynaa Grover, Aryan Vats, Nina Moorman, Aviral Agrawal, Matthew Gombolay
+- Veículo: Proceedings of the AAAI Symposium Series
+- Base: Google Scholar / ojs.aaai.org
+
+
+2º) Contextualização do trabalho:
+O objetivo central do trabalho é encontrar uma solução para a forma como usuários leigos ensinam robôs, especialmente robôs de assistência para idosos. Isso seria feito mediante uma LLM, que iria receber as demonstrações por parte dos usuários e se comunicar com eles para corrigir as instruções e garantir que os robôs recebam os comandos da forma mais precisa quanto for possível. O mundo de wumpus é utilizado para testar a solução proposta, em que os usuários iriam orientar os agentes para que aprendam a corrigir a execução.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 0
+	- Justificativa: é mencionado que parte do procedimento consiste em coletar dados de jogo do próprio usuário para alimentar inicialmente o agente, mas não é detalhado como isso foi feito.
+- Capacidade de Observabilidade e Visualização (0 a 2): 1
+	- Justificativa: O artigo simplesmente menciona que os participantes podem escolher assistir o agente jogando, mas não dá nenhum detalhe adicional nem apresenta capturas de tela. Porém o fato dos autores mencionarem isso, justifica a nota.
+- Nível de interação e parametrização do usuário (0 a 2): 1
+	- Justificativa: É um caso diferente, como o jogo está sendo testado focando nas instruções, as próprias instruções dos participantes podem ser consideradas como uma interação, o que é bem diferente do usual. Tirando isso, os outros parâmetros são fixos no código.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: Ainda está muito distante de ser usado como uma plataforma de testes de agentes no mundo de wumpus, visto que sua proposta central é as instruções dos agentes.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: As descrições são totalmente teóricas e algorítmicas .
+
+Nota recebida nessa avaliação: 2
+
+---
+### TRABALHO 0
+1º) Metadados básicos
 - Título: Intelligent agents capable of developing memory of their environment
 - Ano: 
 - Autores: Gul Muhammad Khan, Julian F. Miller, and David M. Halliday
@@ -387,7 +450,7 @@ Os autores desenvolveram um modelo computacional do cérebro inspirado na neuroc
 Nota recebida nessa avaliação: 0
 
 ---
-### TRABALHO 00
+### TRABALHO 0
 1º) Metadados básicos
 - Título: Individual vs. Joint Perception: a Pragmatic Model of Pointing as Communicative Smithian Helping
 - Ano: 2021

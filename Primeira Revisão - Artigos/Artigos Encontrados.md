@@ -31,6 +31,21 @@ Abaixo os trabalhos encontrados, alguns nem tem o mundo de wumpus como foco prin
 
 Aqui nós paramos a pesquisa (ou pelo menos pausamos), usando a string de busca específica para o google acadêmico, paramos na página 6, bem no início, com o ultimos artigos acessados sendo os: ### [Evolution of Intelligent Agents: A new approach to automatic plan design](https://www.sciencedirect.com/science/article/pii/S1474667017357890) e https://sedici.unlp.edu.ar/handle/10915/63500. (por favor, não considera esses, usei apenas como referência)
 
+### Continuando com Google scholar
+Em 15/07/2026 nós vamos prosseguir com a pesquisa, pois, até esse momento, só temos 13 artigos que definitivamente vamos usar, apesar de 8 deles estarem em análise. Um detalhe é que dessa vez não vamos considerar trabalhos tão antigos, observando a data diretamente na página do google scholar.
+Detalhe: dessa vez estamos filtrando os artigos a partir de 2015
+Abaixo, os possíveis artigos:
+1. ~~[Melhor Aprendizagem de Aprendizagem com Explicações de LLM | Anais da Série de Simpósios da AAAI](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31783) - (2024) Aquele que trata sobre robôs de cuidado e definitivamente usa o mundo de wumpus.
+2. [Qual é o sentido? um Modelo de Relevância da Teoria da Mente](https://escholarship.org/uc/item/7hz7p7f3) - (2022) Como se fosse uma evolução do mesmo artigo que nós já referenciamos aqui, aquele do apontamento! deveríamos substituir? adicionar? desconsiderar?
+3. ~~[A Simple Integration of Epistemic Logic and Reinforcement Learning - Archive ouverte HAL](https://hal.science/hal-05109660/) - (2025) Aquele em francês que utiliza mundo de wumpus como estudo de caso, vale a pena dar uma olhada?
+4. [Evolução da comunicação multiagente orientada a objetivos: o quê, quando e para quem | Inteligência Evolutiva | Springer Nature Link](https://link.springer.com/article/10.1007/s12065-016-0137-2) - (2016) fala bastante sobre o mundo de wumpus, mas será que vale mesmo a pena referenciar?
+5. [What-To-Do-Next-A-Comparative-Study-of-Human-and-Rational-Decision-Making.pdf](https://bnaic2024.sites.uu.nl/wp-content/uploads/sites/986/2024/10/What-To-Do-Next-A-Comparative-Study-of-Human-and-Rational-Decision-Making.pdf) - (2024?) Parece que mostra o mundo de wumpus em texto.
+6. [7043-8682-1-PB.pdf](file:///D:/downloads/7043-8682-1-PB.pdf) - (2016) Outro para a lista dos possivelmente citados, pois modifica demais o ambiente, mas se propõe a ser uma ferramenta educacional.
+7. [IA Simbólica Neural para Jogos POMDP | Publicação da Conferência IEEE | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10089273) - (2022) Modifica demais o mundo de wumpus, mas também pode ser interessante.
+8. [Introdução ao Aprendizado por Reforço](https://thesis.unipd.it/handle/20.500.12608/82522) - (2024) Foca na IA do agente, mas aparentemente a execução é visualizada por saídas no terminal.
+9. [Post-Hoc Interpretation of POMDP Policies (extended version)](https://hal.science/hal-05180842/document) - (2025) Trata do mundo de wumpus, vale a pena investigar
+10. [109161.pdf](https://www.scitepress.org/Papers/2022/109161/109161.pdf) - (2022) Esse vai para os que podem ser referenciados
+
 ### Artigos inacessíveis
 Artigos que talvez até se encaixem no tema, mas não consegui acessar por não ter acesso institucional da UFPA no site em questão.
 
