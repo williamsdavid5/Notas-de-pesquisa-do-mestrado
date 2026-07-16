@@ -6,7 +6,7 @@
       {
         "id": "2c5bb4a233e7ea83",
         "type": "tabs",
-        "dimension": 42.391304347826086,
+        "dimension": 34.27536231884058,
         "children": [
           {
             "id": "a5043f3abea9c37f",
@@ -27,7 +27,7 @@
       {
         "id": "eb9d930d0b18931c",
         "type": "tabs",
-        "dimension": 57.608695652173914,
+        "dimension": 65.72463768115942,
         "children": [
           {
             "id": "f6fbb8d9a3267f69",
@@ -57,8 +57,7 @@
               "title": "Artigos Encontrados"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +220,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e9d5bbea5585e66c",
+  "active": "f6fbb8d9a3267f69",
   "lastOpenFiles": [
     "Primeira Revisão - Artigos/Artigos Extraídos.md",
     "Primeira Revisão - Artigos/Tabelas.md",

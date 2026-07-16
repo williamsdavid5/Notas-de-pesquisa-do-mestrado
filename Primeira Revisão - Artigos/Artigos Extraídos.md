@@ -37,9 +37,35 @@ Nota recebida nessa avaliação: 10
 
 
 ---
+### TRABALHO 0
+1º) Metadados básicos
+- Título: What To Do Next? A Comparative Study of Human and Rational Decision-Making
+- Ano: 2024?
+- Autores: B Swaanen, T Klos
+- Veículo: BNAIC/BeNeLearn 2024
+- Base: Google Scholar
 
 
+2º) Contextualização do trabalho:
+O objetivo do trabalho é tentar quantificar a racionalidade humana em comparação com um agente inteligente, mais especificamente, comparar estratégias humanas e quantificar os desvios em comparação com uma estratégia totalmente racional. Os participantes do experimento jogaram o Mundo de Wumpus e os seus resultados foram comparados aos resultados de um agente, por fim, a comparação dos resultados foi feita. Foi verificado que em 84% dos casos os participantes usaram da mesma estratégia do agente, enquanto nos 16% foram os desvios, devido à limitação da racionalidade humana diante de muitas informações.
+  
+3º) Propósito primário do ambiente:
+( x ) plataformas dedicadas ao teste por terceiros
+(   ) infraestruturas acessórias focadas na validação de agentes específicos
 
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Detalhes sobre o uso da plataforma foram descritos no artigo, além de que disponibilizaram a ferramenta para uso totalmente online, o que complementa essas informações.
+- Capacidade de Observabilidade e Visualização (0 a 2): 2
+	- Justificativa: O sistema exibe a execução com uma interface gráfica amigável.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: A plataforma foi desenvolvida para um experimento controlado, por conta disso, nenhum nível de modificação da partida é disponibilizado para o usuário.
+- Prontidão para uso como Plataforma (0 a 2): 1
+	- Justificativa: Apesar da visualização amigável e uso fácil, não há agentes efetivamente implementados na plataforma disponibilizada no artigo, até o momento, a plataforma só permite que usuários joguem manualmente.
+- Simplicidade de Replicação e Implantação (0 a 2): 1
+	- Justificativa: Como dito, apesar de uma plataforma online ter sido desenvolvida e disponibilizada, ainda não há agentes inseridos dela, necessitando de conhecimentos em programação para concluir. Mas a nota se justifica pelo projeto já desenvolvido.
+
+Nota recebida nessa avaliação: 6
 
 ---
 
@@ -201,6 +227,39 @@ Os autores testam múltiplos agentes atuando ao mesmo tempo no mundo de wumpus, 
 Nota recebida nessa avaliação: 4
 
 ---
+
+### TRABALHO 0
+1º) Metadados básicos
+- Título: Introduzione al Reinforcement Learning
+- Ano: 2024
+- Autores: Luca Dusi e Prof. Luca Schenato
+- Veículo: Tese de graduação em Engenharia Informática, Departamento de Engenharia da Informação, Università degli Studi di Padova
+- Base: Googl scholar / thesis.unipd
+
+
+2º) Contextualização do trabalho:
+O trabalho visa fornecer uma compreensão clara dos princípios e técnicas do aprendizado por reforço (Reinforcement  Learning - RL). Ele contextualiza o RL dentro do campo de inteligência artificial e do machine learning, apresentando-o como um paradigma onde o agente aprende a tomar decisões otimizadas em ambientes dinâmicos através da tentativa e erro. O mundo de wumpus é usado como o ambiente de testes para a validação dos conceitos teóricos envolvidos.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 2
+	- Justificativa: Fica claro, com os detalhes dados no artigo, como a operação do ambiente de testes é realizada.
+- Capacidade de Observabilidade e Visualização (0 a 2): 1
+	- Justificativa: A Observabilidade não é nula, a execução é exibida em forma de texto, simulando, inclusive, a grade do mundo de wumpus.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Toda a parametrização é feita via código.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: Ainda é um ambiente completamente lógico.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: Os autores disponibilizam os códigos do projeto, mas ainda são necessários conhecimentos de programação para ser usado.
+
+Nota recebida nessa avaliação: 3
+
+---
+
 ### TRABALHO 0
 1º) Metadados básicos
 - Título: A Simple Integration of Epistemic Logic and Reinforcement Learning
