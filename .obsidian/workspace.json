@@ -6,7 +6,7 @@
       {
         "id": "2c5bb4a233e7ea83",
         "type": "tabs",
-        "dimension": 34.27536231884058,
+        "dimension": 41.231884057971016,
         "children": [
           {
             "id": "a5043f3abea9c37f",
@@ -27,7 +27,7 @@
       {
         "id": "eb9d930d0b18931c",
         "type": "tabs",
-        "dimension": 65.72463768115942,
+        "dimension": 58.768115942028984,
         "children": [
           {
             "id": "f6fbb8d9a3267f69",
@@ -220,10 +220,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "f6fbb8d9a3267f69",
+  "active": "a5043f3abea9c37f",
   "lastOpenFiles": [
-    "Primeira Revisão - Artigos/Artigos Extraídos.md",
     "Primeira Revisão - Artigos/Tabelas.md",
+    "Primeira Revisão - Artigos/Artigos Extraídos.md",
     "Primeira Revisão - Artigos/Artigos Encontrados.md",
     "Primeira Revisão - Artigos/Artigos interessantes.md",
     "Primeira revisão de literatura.md",

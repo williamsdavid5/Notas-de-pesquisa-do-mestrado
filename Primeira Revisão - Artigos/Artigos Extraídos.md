@@ -36,6 +36,11 @@ Nota recebida nessa avaliação: 10
 
 
 
+
+
+
+
+
 ---
 ### TRABALHO 0
 1º) Metadados básicos
@@ -541,6 +546,38 @@ Nota recebida nessa avaliação: 0
 
 
 Base para preenchimento
+
+### TRABALHO 00
+1º) Metadados básicos
+- Título: Post-Hoc Interpretation of POMDP Policies
+- Ano: 2025
+- Autores: Geoffrey Laforest, Olivier Buffet, Alexandre Niveau, Bruno Zanuttini
+- Veículo: 28th European Conference on Artificial Intelligence (ECAI 2025)
+- Base: Google Scholar / hal.science
+
+
+2º) Contextualização do trabalho:
+O objetivo central é melhorar a interpretabilidade das políticas em Processos de Decisão de Markov Parcialmente Observáveis (POMDPs), que são tradicionalmente representadas por objetos complexos, como controladores de estados finitos (FSCs) ou hiperplanos no espaço de crenças (α-vectors). O mundo de wumpus é o principal cenário de teste.
+  
+3º) Propósito primário do ambiente:
+(   ) plataformas dedicadas ao teste por terceiros
+( x ) infraestruturas acessórias focadas na validação de agentes específicos
+
+4º) Critérios de qualidade:
+- Detalhamento do Ciclo de Execução e Operação (0 a 2): 0
+	- Justificativa: O principal foco é o resultado da lógica implementada, não temos nenhum detalhe em termos de usabilidade do código.
+- Capacidade de Observabilidade e Visualização (0 a 2): 0
+	- Justificativa: Não foi desenvolvida, ou pelo menos não foi mencionada, nenhuma interface de usuário.
+- Nível de interação e parametrização do usuário (0 a 2): 0
+	- Justificativa: Toda a infraestrutura dos testes é via código, logo a parametrização também seria dessa maneira.
+- Prontidão para uso como Plataforma (0 a 2): 0
+	- Justificativa: Ainda está muito longe para ser usado como uma plataforma de testes.
+- Simplicidade de Replicação e Implantação (0 a 2): 0
+	- Justificativa: A replicação ou uso dessa plataforma necessita de um conhecimento de programação. 
+
+Nota recebida nessa avaliação: 0
+
+---
 ### TRABALHO 00
 1º) Metadados básicos
 - Título:

@@ -42,7 +42,7 @@ Abaixo, os possíveis artigos:
 5. ~~[What-To-Do-Next-A-Comparative-Study-of-Human-and-Rational-Decision-Making.pdf](https://bnaic2024.sites.uu.nl/wp-content/uploads/sites/986/2024/10/What-To-Do-Next-A-Comparative-Study-of-Human-and-Rational-Decision-Making.pdf) - (2024?) Parece que mostra o mundo de wumpus em texto.
 6. [7043-8682-1-PB.pdf](file:///D:/downloads/7043-8682-1-PB.pdf) - (2016) Outro para a lista dos possivelmente citados, pois modifica demais o ambiente, mas se propõe a ser uma ferramenta educacional.
 7. [IA Simbólica Neural para Jogos POMDP | Publicação da Conferência IEEE | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10089273) - (2022) Modifica demais o mundo de wumpus, mas também pode ser interessante.
-8. [Introdução ao Aprendizado por Reforço](https://thesis.unipd.it/handle/20.500.12608/82522) - (2024) Foca na IA do agente, mas aparentemente a execução é visualizada por saídas no terminal.
+8. ~~[Introdução ao Aprendizado por Reforço](https://thesis.unipd.it/handle/20.500.12608/82522) - (2024) Foca na IA do agente, mas aparentemente a execução é visualizada por saídas no terminal.
 9. [Post-Hoc Interpretation of POMDP Policies (extended version)](https://hal.science/hal-05180842/document) - (2025) Trata do mundo de wumpus, vale a pena investigar
 10. [109161.pdf](https://www.scitepress.org/Papers/2022/109161/109161.pdf) - (2022) Esse vai para os que podem ser referenciados
 
