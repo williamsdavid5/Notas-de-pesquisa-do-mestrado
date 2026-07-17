@@ -42,7 +42,7 @@ Nota recebida nessa avaliação: 10
 
 
 ---
-### TRABALHO 0
+### TRABALHO 2
 1º) Metadados básicos
 - Título: What To Do Next? A Comparative Study of Human and Rational Decision-Making
 - Ano: 2024?
@@ -74,7 +74,7 @@ Nota recebida nessa avaliação: 6
 
 ---
 
-### TRABALHO 0
+### TRABALHO 3
 1º) Metadados básicos
 - Título: Interpreting Deep Q-Networks: A Rule-Based Comparison with First-Order Logic in Wumpus World
 - Ano: 2024
